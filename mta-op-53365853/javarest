@@ -1,0 +1,544 @@
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 20:23:15 UTC 49160125] Downloaded 'JVMKill', version '1.12.0.RELEASE' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 17:52:04 UTC 49160125] Downloaded 'SAP JVM Memory Calculator', version '1.8.5' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 12:59:16 UTC 49160125] Downloaded 'SAP HANA JDBC Driver', version '2.4.39' in 0.3 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 04:01:27 UTC 49160125] Java XS Buildpack Version: 1.8.3 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Feb 02 06:40:45 UTC 49160125] Compiling Java application... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Feb 01 17:41:58 UTC 49160125] Downloaded app package (43.4M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sun Jan 14 08:09:59 UTC 49160125] Downloading app package... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Jan 12 08:33:31 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully created container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.153#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:25:12 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb creating container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:24:21 UTC 49160125] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 14:18:37 UTC 49160125] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Dec 29 12:15:23 UTC 49160124] Creating build for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri May 19 18:21:50 UTC 49160124] Uploading app package for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 25 23:17:48 UTC 49160124] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Sep 25 11:42:53 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 20 21:02:56 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"route"=>"80156c37-7dce-4586-84f6-9b0a96900d1c", :verb=>"add", :relation=>"routes", :related_guid=>"80156c37-7dce-4586-84f6-9b0a96900d1c"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:27.154#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Sep 15 15:23:16 UTC 49160123] Created app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Jun 13 16:51:50 UTC 49160125] Creating droplet for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 21:37:08 UTC 49160125] Uploaded build artifacts cache (131B) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:56 UTC 49160125] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:42 UTC 49160125] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:52 UTC 49160125] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:11 UTC 49160125] Exit status 0 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 20:23:15 UTC 49160125] Downloaded 'JVMKill', version '1.12.0.RELEASE' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 17:52:04 UTC 49160125] Downloaded 'SAP JVM Memory Calculator', version '1.8.5' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 12:59:16 UTC 49160125] Downloaded 'SAP HANA JDBC Driver', version '2.4.39' in 0.3 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 04:01:27 UTC 49160125] Java XS Buildpack Version: 1.8.3 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Feb 02 06:40:45 UTC 49160125] Compiling Java application... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Feb 01 17:41:58 UTC 49160125] Downloaded app package (43.4M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sun Jan 14 08:09:59 UTC 49160125] Downloading app package... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Jan 12 08:33:31 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully created container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:25:12 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb creating container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:24:21 UTC 49160125] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 14:18:37 UTC 49160125] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Dec 29 12:15:23 UTC 49160124] Creating build for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri May 19 18:21:50 UTC 49160124] Uploading app package for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 25 23:17:48 UTC 49160124] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Sep 25 11:42:53 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 20 21:02:56 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"route"=>"80156c37-7dce-4586-84f6-9b0a96900d1c", :verb=>"add", :relation=>"routes", :related_guid=>"80156c37-7dce-4586-84f6-9b0a96900d1c"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:36.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Sep 15 15:23:16 UTC 49160123] Created app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 10 17:14:48 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully destroyed container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 03 12:31:22 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb destroying container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 03 12:30:45 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb stopping instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Tue Aug 28 18:03:03 UTC 49160125] Uploading complete (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Aug 25 20:36:18 UTC 49160125] Uploaded droplet (111.8M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Jun 13 16:51:50 UTC 49160125] Creating droplet for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 21:37:08 UTC 49160125] Uploaded build artifacts cache (131B) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:56 UTC 49160125] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:42 UTC 49160125] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:52 UTC 49160125] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:11 UTC 49160125] Exit status 0 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 20:23:15 UTC 49160125] Downloaded 'JVMKill', version '1.12.0.RELEASE' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 17:52:04 UTC 49160125] Downloaded 'SAP JVM Memory Calculator', version '1.8.5' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 12:59:16 UTC 49160125] Downloaded 'SAP HANA JDBC Driver', version '2.4.39' in 0.3 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 04:01:27 UTC 49160125] Java XS Buildpack Version: 1.8.3 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Feb 02 06:40:45 UTC 49160125] Compiling Java application... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Feb 01 17:41:58 UTC 49160125] Downloaded app package (43.4M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.281#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sun Jan 14 08:09:59 UTC 49160125] Downloading app package... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Jan 12 08:33:31 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully created container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:25:12 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb creating container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:24:21 UTC 49160125] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 14:18:37 UTC 49160125] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Dec 29 12:15:23 UTC 49160124] Creating build for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri May 19 18:21:50 UTC 49160124] Uploading app package for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 25 23:17:48 UTC 49160124] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Sep 25 11:42:53 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 20 21:02:56 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"route"=>"80156c37-7dce-4586-84f6-9b0a96900d1c", :verb=>"add", :relation=>"routes", :related_guid=>"80156c37-7dce-4586-84f6-9b0a96900d1c"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:32:46.282#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.stageAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1###
+[PollStageAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Sep 15 15:23:16 UTC 49160123] Created app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.275#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Jun 20 22:52:37 UTC 49160126] Container became healthy (STDOUT, CELL)#
+
+#2.0#2019 02 27 15:33:09.275#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Jun 08 18:46:35 UTC 49160126] 2019-02-27 15:33:03.033  INFO 8 --- [           main] c.l.shaadtdemo.ShaadtDemoApplication     : Started ShaadtDemoApplication in 6.843 seconds (JVM running for 7.62) (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.275#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Jun 08 17:16:10 UTC 49160126] 2019-02-27 15:33:03.028  INFO 8 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Jun 06 03:57:18 UTC 49160126] 2019-02-27 15:33:02.807  INFO 8 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jun 03 10:15:43 UTC 49160126] 2019-02-27 15:33:02.570  INFO 8 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 18:13:34 UTC 49160126] 2019-02-27 15:33:02.254  INFO 8 --- [           main] c.s.c.s.c.s.RequestContextListenerChain  : Added default listener com.sap.cloud.sdk.cloudplatform.tenant.TenantRequestContextListener with priority -3. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 18:11:29 UTC 49160126] 2019-02-27 15:33:02.254  INFO 8 --- [           main] c.s.c.s.c.s.RequestContextListenerChain  : Added default listener com.sap.cloud.sdk.cloudplatform.security.AuthTokenRequestContextListener with priority -5. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 18:07:42 UTC 49160126] 2019-02-27 15:33:02.253  INFO 8 --- [           main] c.s.c.s.c.s.RequestContextListenerChain  : Added default listener com.sap.cloud.sdk.cloudplatform.security.user.UserRequestContextListener with priority -4. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 18:07:04 UTC 49160126] 2019-02-27 15:33:02.253  INFO 8 --- [           main] c.s.c.s.c.s.RequestContextListenerChain  : Added default listener com.sap.cloud.sdk.cloudplatform.connectivity.DestinationsRequestContextListener with priority -2. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 16:10:22 UTC 49160126] 2019-02-27 15:33:02.246  INFO 8 --- [           main] c.s.c.s.c.s.RequestContextServletFilter  : No RequestContextFactory configured. Falling back to DefaultRequestContextFactory. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 14:23:30 UTC 49160126] 2019-02-27 15:33:02.240  INFO 8 --- [           main] s.c.s.s.c.s.Axis2CustomConverterListener : Axis2 Custom Converter Class SoapCustomConverter registered during startup. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 11:08:21 UTC 49160126] 2019-02-27 15:33:02.228  INFO 8 --- [           main] c.s.c.s.f.h.HystrixBootstrapListener     : Boostrapping Hystrix. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 11:06:53 UTC 49160126] 2019-02-27 15:33:02.228  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Successfully registered JMX bean com.sap.cloud.sdk.cloudplatform.monitoring:name=ExceptionMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 10:57:56 UTC 49160126] 2019-02-27 15:33:02.228  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Registering JMX bean for monitor com.sap.cloud.sdk.cloudplatform.monitoring:name=ExceptionMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 10:55:21 UTC 49160126] 2019-02-27 15:33:02.227  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Successfully registered JMX bean com.sap.cloud.sdk.s4hana.connectivity:name=ErpEndpointMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 10:43:06 UTC 49160126] 2019-02-27 15:33:02.227  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Registering JMX bean for monitor com.sap.cloud.sdk.s4hana.connectivity:name=ErpEndpointMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.276#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu May 30 10:40:37 UTC 49160126] 2019-02-27 15:33:02.226  INFO 8 --- [           main] c.s.c.s.c.c.DestinationDeclarator        : Successfully declared destinations: [ErpQueryEndpoint_RFC, ErpQueryEndpoint]. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 29 21:41:58 UTC 49160126] 2019-02-27 15:33:02.180  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Successfully registered JMX bean com.sap.cloud.sdk.cloudplatform.cache:name=CacheMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 29 21:14:07 UTC 49160126] 2019-02-27 15:33:02.178  INFO 8 --- [           main] c.s.c.s.c.monitoring.JmxMonitor          : Registering JMX bean for monitor com.sap.cloud.sdk.cloudplatform.cache:name=CacheMonitor. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Tue May 28 04:08:37 UTC 49160126] 2019-02-27 15:33:02.030  INFO 8 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4808 ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Tue May 28 04:07:10 UTC 49160126] 2019-02-27 15:33:02.030  INFO 8 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat May 25 19:35:15 UTC 49160126] 2019-02-27 15:33:01.826  INFO 8 --- [           main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat May 25 14:45:24 UTC 49160126] 2019-02-27 15:33:01.809  INFO 8 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat May 25 14:41:59 UTC 49160126] 2019-02-27 15:33:01.809  INFO 8 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat] (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri May 24 23:41:42 UTC 49160126] 2019-02-27 15:33:01.755  INFO 8 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http) (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Apr 15 17:11:19 UTC 49160126] 2019-02-27 15:32:58.362  INFO 8 --- [           main] o.s.c.s.r.PooledDataSourceCreator        : Found HikariCP on the classpath. Using it for DataSource connection pooling. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Apr 01 17:46:26 UTC 49160126] 2019-02-27 15:32:57.154  INFO 8 --- [           main] c.l.shaadtdemo.ShaadtDemoApplication     : The following profiles are active: cloud (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Apr 01 17:41:43 UTC 49160126] 2019-02-27 15:32:57.150  INFO 8 --- [           main] c.l.shaadtdemo.ShaadtDemoApplication     : Starting ShaadtDemoApplication on 75d993da-c34e-4d54-7e2f-5f11 with PID 8 (/home/vcap/app/BOOT-INF/classes started by vcap in /home/vcap/app) (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 19:22:05 UTC 49160126]  :: Spring Boot ::        (v2.1.2.RELEASE) (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 19:02:36 UTC 49160126]  =========|_|==============|___/=/_/_/_/ (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 19:02:18 UTC 49160126]   '  |____| .__|_| |_|_| |_\__, | / / / / (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.277#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 18:59:51 UTC 49160126]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) ) (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 18:59:46 UTC 49160126] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \ (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 18:59:41 UTC 49160126]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \ (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 30 18:59:11 UTC 49160126]   .   ____          _            __ _ _ (STDOUT, APP/PROC/WEB)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 09 02:22:36 UTC 49160126] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sun Jan 27 11:14:10 UTC 49160126] Cell 6296d53c-e211-467a-a77a-6dbb8deab853 successfully created container for instance 75d993da-c34e-4d54-7e2f-5f11 (STDOUT, CELL)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Jan 23 16:15:50 UTC 49160126] Cell 6296d53c-e211-467a-a77a-6dbb8deab853 creating container for instance 75d993da-c34e-4d54-7e2f-5f11 (STDOUT, CELL)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Jan 16 01:49:31 UTC 49160126] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"state"=>"STARTED"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Dec 14 00:37:36 UTC 49160125] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({:droplet_guid=>"8b5206aa-3f74-4f68-9491-b4eec852d8c6"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 10 17:14:48 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully destroyed container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 03 12:31:22 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb destroying container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 03 12:30:45 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb stopping instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Tue Aug 28 18:03:03 UTC 49160125] Uploading complete (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Aug 25 20:36:18 UTC 49160125] Uploaded droplet (111.8M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Jun 13 16:51:50 UTC 49160125] Creating droplet for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.278#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 21:37:08 UTC 49160125] Uploaded build artifacts cache (131B) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:56 UTC 49160125] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:34:42 UTC 49160125] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:52 UTC 49160125] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed May 23 10:33:11 UTC 49160125] Exit status 0 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 20:23:15 UTC 49160125] Downloaded 'JVMKill', version '1.12.0.RELEASE' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 17:52:04 UTC 49160125] Downloaded 'SAP JVM Memory Calculator', version '1.8.5' in 0.0 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 12:59:16 UTC 49160125] Downloaded 'SAP HANA JDBC Driver', version '2.4.39' in 0.3 s. (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Feb 24 04:01:27 UTC 49160125] Java XS Buildpack Version: 1.8.3 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Feb 02 06:40:45 UTC 49160125] Compiling Java application... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Thu Feb 01 17:41:58 UTC 49160125] Downloaded app package (43.4M) (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sun Jan 14 08:09:59 UTC 49160125] Downloading app package... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Jan 12 08:33:31 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb successfully created container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:25:12 UTC 49160125] Cell e6d12eda-76ac-4a8f-a78b-24744f0e57eb creating container for instance b48f1e44-43df-4345-a469-bc7e5bd48295 (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.279#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 18:24:21 UTC 49160125] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Jan 08 14:18:37 UTC 49160125] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri Dec 29 12:15:23 UTC 49160124] Creating build for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Fri May 19 18:21:50 UTC 49160124] Uploading app package for app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Mar 25 23:17:48 UTC 49160124] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Sat Sep 25 11:42:53 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"environment_json"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Mon Sep 20 21:02:56 UTC 49160123] Updated app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 ({"route"=>"80156c37-7dce-4586-84f6-9b0a96900d1c", :verb=>"add", :relation=>"routes", :related_guid=>"80156c37-7dce-4586-84f6-9b0a96900d1c"}) (STDOUT, API)#
+
+#2.0#2019 02 27 15:33:09.280#Z#DEBUG#com.sap.cloud.lm.sl.xs2.53365853.javarest.startAppTask#
+######com.sap.cloud.lm.sl.cf.persistence.services.ProcessLogger########flowable-async-job-executor-thread-19###
+[PollStartAppStatusExecution] [javarest] 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 [Wed Sep 15 15:23:16 UTC 49160123] Created app with guid 6ec0666a-5aaa-4cc5-8ad0-202c311f7d62 (STDOUT, API)#
+
